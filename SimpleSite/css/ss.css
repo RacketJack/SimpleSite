@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  #wrap {
+    width: 80%;
+    margin: auto;
+    background: #fff;
+    overflow: hidden;
+    padding: 15px;
+    background: rgb(135, 206, 236);
+    border: solid 10px rgb(131, 221, 116);
+  }
+
+  h1, nav{
+    text-align: center;
+  }
+
+  h1, h2, p{
+      color: white;
+  }
